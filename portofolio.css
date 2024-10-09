@@ -1,0 +1,30 @@
+
+h1 {
+    color: lightgreen;
+}
+
+body {
+    background-color: white;
+    color: hotpink;
+    transition: 0.5s;
+}
+
+button {
+    background-color: lightgreen;
+    color: hotpink;
+    font-family: "Titan One", sans-serif;
+    font-style: normal;
+    border-radius: 80px;
+    border-color: lightgreen;
+
+}
+
+.darkmode {
+    background-color: hotpink;
+    color: white;
+}
+
+.darkmodebutton {
+    background-color: white;
+    color: lightgreen;
+}
